@@ -20,7 +20,7 @@
 
 ## Portfolio Description
 <p>
-    Hello 👋, my name is Leandro Gamarra. Welcome to my documented process of how I built my very own Portfolio Wbsite. What drove me to build this website, was the sense of not having a way where possible recruiters could learn more about who I am as a person and a place where they could see what projects I've built, all in one place. Yes, they could look at my resume, but I think it'd be better to have a visual of my resume, which is what I did with this website. I hope you enjoy my website.
+    Hello 👋, my name is Leandro Gamarra. Welcome to my documented process of how I built my very own Portfolio Website. What drove me to build this website, was the sense of not having a way where possible recruiters could learn more about who I am as a person and a place where they could see what projects I've built, all in one place. Yes, they could look at my resume, but I think it'd be better to have a visual of my resume, which is what I did with this website. I hope you enjoy my website.
 </p>
 
 ## Website Background
